@@ -16,9 +16,9 @@ This project collects student details, validates subject marks, calculates avera
 
 ---
 
-## 📌 **Project Features**
+##  **Project Features**
 
-### ✔ Student Operations
+###  Student Operations
 - Add new students (roll number, name, marks)
 - Validate marks (0–100)
 - Calculate average marks
@@ -26,7 +26,7 @@ This project collects student details, validates subject marks, calculates avera
 - Search students by roll number
 - Stores multiple students using arrays
 
-### ✔ Exception Handling Demonstrated
+###  Exception Handling Demonstrated
 - **Custom checked exception** → `InvalidMarksException`
 - Handling:
   - `NumberFormatException`
