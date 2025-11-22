@@ -1,8 +1,7 @@
 # Student-Result-Management-System
 A Java-based Student Result Management System demonstrating robust exception handling using custom exceptions, try–catch, throw, throws, and finally. Handles student data, validates marks, calculates results, and manages runtime errors gracefully.
 ---
-## YUKTI VADEHRA, ROLL NO. 2401010128, BTECH CSE(CORE) ##
----
+
 A fully functional **Student Result Management System** built using **Java**, designed to demonstrate **exception handling**, including:
 
 - Custom exceptions  
